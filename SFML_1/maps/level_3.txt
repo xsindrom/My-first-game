@@ -1,0 +1,55 @@
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+0                                              0000                          rrrrr00ff                                rrrrrrrrrrrrrr00
+0                                              0000                          rrrrr00hf                                rrrrrrrrrrrrrr00
+0                                                                            rrrrr00ff                                     frrrrrrrr00
+0                                                                            rrrrf00ff                                      rrrrrrrr00
+0000000000000000000000000000000000000          rrrrrrrrrrrrrr0000000000000000000000000000000000000000000000000000r          rrrrrrrr00
+0000000000000000000000000000000000000          rrrrrrrrrrrrrr0000000000000000000000000000000000000000000000000000r          rrrrrrrr00
+000ffrr                                                                                  ffffffffffffffffffffffffr          rrrrrrrr00
+000ffrr                                                                                 rffffffffffffffffffffffffr          rrrrrrrr00
+000         rr                                                                          rrrrrrrrrrrrrrrrrrrrrrrrrr          rrrrrrrr00
+000         rr                                                                                                                      00
+00000       rr                                                                                                                      00
+0000000000000000000000000000000000000000000000000000000000000000000rrrrrr                                                           00
+0000000000000000000000000000000000000000000000000000000000000000000rrrrr       f000000000000000000000000000000000000000             00
+00000000000000000000000000000ff                    rrffffffffffffrrrrrr       f0000000000000000000000000000000000000000             00
+00000000000000000000000000000ff                    rrffffffffffffrrrrr       f00r                                                   00
+000                       000ffrrrrrrrrrr                   rrrrrrrrr       f00r                                                    00
+000                       000ffrrrrrrrrr                        rrrr       f00r             00                000                   00
+000         rrrrrr        000ffrrrrrrrr          rrr                      f00r             00r                000                   00
+000         f000rr        000ffrrrrrrr          rrrrrrr                  f00r             00fr        f       000                   00
+000         f000rr        000ffrrrrrr          0000000000000000000000000000r             00ffr        r       000                   00
+000         f000rr        000ffrrrrr          0000000000000000000000000000r             00fffr        r       000                   00
+000         f000rr        000rrrrrr          00                                        00ffffr        r       000                   00
+000         f000rr        000rrrrr          00                                        00fffffr        r     rr000                   00
+000         f000rr        000rrrr          00                                        00ffffffr        r     rr000                   00
+000         f000rr        000rrr          00        00000000000000000000000000000   00000000000000000000000000000                   00
+000         f000rr        000rr          00         00fffffffrrrrrrrrrrr                     rrrrrrrrrrrfffffff00                   00
+000         f000rr        000r          00          00ffffrrrrrrrrr                               rrrrrrrrrffff00                   00
+000         f000rr        000          00           00ffrrrrrrr                                       rrrrrrrff00f                  00
+000         rrrrrr        000         00            00frrrrr                                             rrrrrf00f                  00
+000                       000        00      r      00rrrr                    rrrrrrrrr                    rrrr00rrrrrrrrrrrrr      00
+000                       000       00      rr      00rrr                   rrrrrrrrrrrrr                   rrr00rrrrrrrrrrrrr      00
+000000000000000000000     000      00      rrr      00rr                  rrrfffffffffffrrr                  rr00rrrrrrrrrrrrr      00
+000000000000000000000     000     00      rrrr      00r                  rrrffffffrffffffrrr                  r00rrrrrrrrrrrrr      00
+000                              00      rrrrr      rr                  rrrffffffrrrffffffrrr                  00rrrrrrrrrrrrr      00
+000                             00      rrrrrr      rr                 rrrffffffrrfrrffffffrrr                 00rrrrrrrrrrrrr      00
+000rrrrrrrrrrrrrrrrrrrrrrrrrrrr00      rrrrrrr      00                 rrrfffffrrfffrrfffffrrr                 00rrrrrrrrrrrrr      r0
+000rrrrrrrrrrffffffrrrrrrrrrrr00      rrrrrfrr      00                rrrfffffrrfffffrrfffffrrr                00rrrrrrrrrrrr      rr0
+000rrrrrrrrfffffffffrrrrrrrrr00      rrrrrffrr      00                rrrffffrrfffffffrrffffrrr                00rrrrrrrrrrr      rrr0
+000rrrrrrffffffffffffrrrrrrr00      rrrrrfffrr      00                rrrfffrrffffhffffrrfffrrr                00rrrrrrrrrr      rrrr0
+000rrrrfffffffffffffffrrrrr00      rrrrrffffrr      00                rrrffffrrfffffffrrffffrrr                00rrrrrrrrr      rrrrr0
+000rrffffffffffffffffffrrr00      rrrrrfffffrr      00                rrrfffffrrfffffrrfffffrrr                00              rrrrrr0
+000fffffffffffffffffffffr00      rrrrrffffffrr      00                 rrrfffffrrfffrrfffffrrr                 rr             rrrrrrr0
+000hfffffffffffffffffffh00      rrrrrfffffffrr      00                 rrrffffffrrfrrffffffrrr                 rr            rrrrrrrr0
+0000000000000000000000000      rrrrrffffffffrr      00r                 rrrffffffrrrffffffrrr                 r00fffffffffffrrrrrrrrr0
+000000000000000000000000      rrrrrfffffffffrr      00rr                 rrrffffffrffffffrrr                 rr00ffffffffffrrrrrrrrrr0
+0rrrrrrrrrrrrrrrrrrrrrr      rrrrrffffffffffrr      00rrr                 rrrfffffffffffrrr                 rrr00fffffffffrrrrrrrrrrr0
+0rrrrr                      rrrrrfffffffffffrr      00rrrr                  rrrrrrrrrrrrr                  rrrr00ffffffffrrrrrrrrrrrr0
+0rrrrr                     rrrrrffffffffffffrr      00rrrrrr                  rrrrrrrrr                  rrrrrr00fffffffrrrrrrrrrrrrr0
+0rrrrr    00000           rrrrrrrrrrrrrrrrrrrr      00frrrrrrrr                                       rrrrrrrrf00ffffffrrrrrrrrrrrrrr0
+0r        00000          rrrrrrrrrrrrrrrrrrrrr      00ffrrrrrrrrrrr                               rrrrrrrrrrrff00fffffrrrrrrrrrrrrrrr0
+0r       r00000                                     00ffffrrrrrrrrrrrrrr                     rrrrrrrrrrrrrrffff00ffffrrrrrrrrrrrrrrrr0
+0r   F   r00000                                     00fffffffrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrfffffff00hffrrrrrrrrrrrrrrrrr0
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000

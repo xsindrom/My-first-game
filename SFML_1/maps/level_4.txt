@@ -1,0 +1,15 @@
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+0       rr      rr      rr      rrrrrrrrrrrrrrrr          rr                                                    rr      r0rrrrrrrrr F0
+0       rr      rr      rr      rr          rrrr          rr                                                    rr      r0r       r  0
+0   rr  rr  rr  rr  rr  rr  rr  rr          rrrr  rrrrrr  rr  0rr  rrrrrrrrr   rrrrrr  rrrrrrrr  rrrrrrrrr  rr  rr  r0  r0r       r  0
+0   rr  rr  rr  rr  rr  rr  rr  rr  rrrrrr  rrrr  rrr     rr  0rr  rrrrrrrrr   rrrrrr  rrrrrrrr  rrrrrrrrr  rr  rr  r0  r0r  r r  r  0
+0   rr  rr  rr  rr  rr  rr  rr      rr      rrrr  rrr     rr  0rr  rr000000r   000000  rr000000  rr000000r  rr  rr  r0  r0r  r r  r  0
+0   rr  rr  rr  rr  rr  rr  rr      rr      rrrr  rrr  rrrrr  0rr  rrrrrrrrr   rrrrrr  rrrrrrrr  rrrrrrrrr  rr  rr  r0  r0r  r r  r  0
+0   rr  rr  rr  rr  rr  rr  rrrrrrrrrr  rrrrrrrr  rrr  rrrrr  0rr  rrrrrrrrr   rrrrrr  rrrrrrrr  rrrrrrrrr  rr      r0       r r  r  0
+0   rr      rr      rr      rrrrrrrrrr  rr        rrr         0rr                                           rr      r0       rrr     0
+0   rr      rr      rr      rrrrrrrrrr  rr        rrr         0rr                                           rrrrrrrrr0rrr0rrrrrr     0
+0000000000000000000000000000000000000r  rr  000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+                                    0r  rr  0                                                                                         
+                                    0r      0                                                                                         
+                                    0r      0                                                                                         
+                                    000000000                                                                                         
