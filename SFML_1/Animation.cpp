@@ -1,5 +1,8 @@
 #include "Animation.h"
 Animation::Animation()
+
+
+// Comment for gits
 {
 	speed = 0.0;
 	CurrentFrame = 0.0;
